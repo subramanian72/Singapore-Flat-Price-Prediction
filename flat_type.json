@@ -1,0 +1,19 @@
+{
+    "Adjoined flat": "0",
+    "Apartment": "1",
+    "DBSS": "2",
+    "Improved": "3",
+    "Improved-Maisonette": "4",
+    "Maisonette": "5",
+    "Model A": "6",
+    "Model A-Maisonette": "7",
+    "Model A2": "8",
+    "Multi Generation": "9",
+    "New Generation": "10",
+    "Premium Apartment": "11",
+    "Premium Maisonette": "12",
+    "Simplified": "13",
+    "Standard": "14",
+    "Terrace": "15",
+    "Type S1": "16"
+}
